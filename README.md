@@ -1,2 +1,2 @@
 # SST
-Simple Study Timer
+SST
